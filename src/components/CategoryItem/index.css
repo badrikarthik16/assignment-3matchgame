@@ -1,0 +1,16 @@
+.tab {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: #ffffff;
+  padding: 10px;
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.active-tab {
+  border-bottom: 2px solid #fec653;
+  color: #fec653;
+  text-decoration: line-through;
+}

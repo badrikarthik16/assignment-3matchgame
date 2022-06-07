@@ -1,0 +1,15 @@
+.each-thumb-container {
+  margin: 40px;
+}
+
+.thumb-image {
+  height: 120px;
+  width: 120px;
+}
+
+.thumb-button {
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+}
